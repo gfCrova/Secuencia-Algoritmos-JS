@@ -7,6 +7,4 @@ const factorial = (num) => {
     return result;
 }
 
-factorial(5); // 120
-// factorial(10); // 3628800
-// factorial(15); // 1307674368000
+factorial(10); // OUTPUT: 3628800

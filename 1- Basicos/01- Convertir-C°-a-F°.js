@@ -4,4 +4,5 @@ const convertirCaF = (celsius) => {
     return fahrenheit;
 }
 
-console.log(convertirCaF(30));  // Fahrenheit: 86 grados.
+console.log(convertirCaF(30));  
+// OUTPUT: Fahrenheit: 86 grados.

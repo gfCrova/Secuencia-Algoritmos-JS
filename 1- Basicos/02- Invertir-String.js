@@ -5,4 +5,5 @@ const revertirString = (str) => {
     let result3 = result2.join("");
     return result3;
 }
-revertirString("hello"); // olleh
+revertirString("hello"); 
+// OUTPUT: olleh
