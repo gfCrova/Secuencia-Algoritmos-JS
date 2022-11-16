@@ -4,6 +4,7 @@ const getPalabraMasLarga = (str) => {
 
     let palabra_mas_grande = "";
     let palabras = str.split(" "); 
+    console.log(palabras);
     palabras.forEach((palabra) => {
         if (palabra.length > palabra_mas_grande.length) {
             palabra_mas_grande = palabra

@@ -3,7 +3,6 @@ const elMayorDeCadaArray = (arr) => {
     let arr2 = [];
     for (let i = 0; i < arr.length; i++) {
         let result = Math.max(...arr[i]);
-        console.log(result);
         arr2.push(result);
     }
     return arr2;
