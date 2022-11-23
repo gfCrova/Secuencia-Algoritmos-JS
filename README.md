@@ -15,6 +15,6 @@
     <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/1-%20Basicos/09-%20Primera-Letra-en-MAY%C3%9AS-las-dem%C3%A1s-en-MINUS.js">Primera letra en Mayúscula las demás en Minúsculas</a></li>
     <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/1-%20Basicos/10-%20Slice-Splice(...spread).js">Slice-Splice(...spread)</a></li>
     <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/1-%20Basicos/11-%20Delete-valores-FALSOS-array.js">Delete valores FALSOS en un array</a></li>
-    <li><a>Insertar Número en array y ordenar menor a mayor</a></li>
+    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/1-%20Basicos/12-%20Insertar-ordenar-num-array.js">Insertar Número en array y ordenar menor a mayor</a></li>
   </ol>
 </div>
