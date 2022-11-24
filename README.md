@@ -1,4 +1,4 @@
-<h1> Secuencia de Comandos de Algoritmos <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></h1>
+<h1 align="center"> Secuencia de Comandos de Algoritmos <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></h1>
  &nbsp;
 <div>
   <h2>Básicos</h2>
@@ -16,4 +16,8 @@
     <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/1-%20Basicos/11-%20Delete-valores-FALSOS-array.js">Delete valores FALSOS en un array</a></li>
     <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/1-%20Basicos/12-%20Insertar-ordenar-num-array.js">Insertar Número en array y ordenar menor a mayor</a></li>
   </ol>
+</div>
+<br>
+<div align="right">
+<h1>Intermedios</h1>
 </div>
