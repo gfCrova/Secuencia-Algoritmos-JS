@@ -18,8 +18,8 @@
   </ol>
 </div>
 <br>
-<div align="right">
-<h1>Intermedios</h1>
+
+<h2>Intermedios</h2>
 <!--<ol>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
@@ -32,4 +32,3 @@
    <li><a href=""></a></li>
    <li><a href=""></a></li>
 </ol>-->
-</div>
