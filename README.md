@@ -20,7 +20,7 @@
 <br>
 <div align="right">
 <h1>Intermedios</h1>
-<ol>
+<!--<ol>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
@@ -31,5 +31,5 @@
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
-</ol>
+</ol>-->
 </div>
