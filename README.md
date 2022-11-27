@@ -35,7 +35,7 @@
 <br>
 
 <h2>Data Structures</h2>
-<!--<ol>
+<ol>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
@@ -46,4 +46,4 @@
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
-</ol>-->
+</ol>
