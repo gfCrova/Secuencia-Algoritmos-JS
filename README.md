@@ -36,8 +36,8 @@
 
 <h2>Data Structures</h2>
 <ol>
-   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/01-%20POP%20-%20SHIFT%20-%20UNSHIFT%20-%20PUSH.js">Arrays</a></li>
-   <li><a href=""></a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/01-%20POP%20-%20SHIFT%20-%20UNSHIFT%20-%20PUSH.js">Pop-Push-Shift-Unshift</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/02%20-%20SPLICE%20-%20SLICE.js">Slice - Splice</a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
