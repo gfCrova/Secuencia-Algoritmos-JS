@@ -58,7 +58,7 @@
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/05-%20Manipulando%20OBJETOS.js">Manipulando OBJETOS</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/06-%20OBJETOS-Parte2.js">OBJETOS-Parte2</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/07-%20Class-constructor-(GETTER-SETTER).js">Class-constructor-(GETTER-SETTER)</a></li>
-   <li><a href=""></a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/08-%20Class-Props-(Propias-y-Prototype).js">Class-Props-(Propias-y-Prototype)</a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
 </ol>
