@@ -55,7 +55,7 @@
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/02%20-%20SPLICE%20-%20SLICE.js">Slice - Splice</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/03-%20SPREAD%20(...)%20Desestructuracion.js">Spread(...) - Desestructuración</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/04-%20indexOf%20(%20).js">IndexOf()</a></li>
-   <li><a href=""></a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/05-%20Manipulando%20OBJETOS.js">Manipulando OBJETOS</a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
    <li><a href=""></a></li>
