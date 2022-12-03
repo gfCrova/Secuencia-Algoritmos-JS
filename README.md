@@ -60,6 +60,6 @@
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/07-%20Class-constructor-(GETTER-SETTER).js">Class-constructor-(GETTER-SETTER)</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/08-%20Class-Props-(Propias-y-Prototype).js">Class-Props-(Propias-y-Prototype)</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/09-%20Object-Freeze.js">Object-Freeze</a></li>
-   <li><a href=""></a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/10-%20Promesas.js">Promesas</a></li>
 </ol>
 </div>
