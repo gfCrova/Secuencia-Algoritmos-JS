@@ -32,3 +32,34 @@
    <li><a href=""></a></li>
    <li><a href=""></a></li>
 </ol>-->
+<br>
+
+<h2>Data Structures</h2>
+<div>
+<ol>
+<div>
+ <h3>Es6</h3>
+ <ul>
+  <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+   <li><a href=""></a></li>
+ </ul>
+</div>
+<br>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/01-%20POP%20-%20SHIFT%20-%20UNSHIFT%20-%20PUSH.js">Pop-Push-Shift-Unshift</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/02%20-%20SPLICE%20-%20SLICE.js">Slice - Splice</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/03-%20SPREAD%20(...)%20Desestructuracion.js">Spread(...) - Desestructuración</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/04-%20indexOf%20(%20).js">IndexOf()</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/05-%20Manipulando%20OBJETOS.js">Manipulando OBJETOS</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/06-%20OBJETOS-Parte2.js">OBJETOS-Parte2</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/07-%20Class-constructor-(GETTER-SETTER).js">Class-constructor-(GETTER-SETTER)</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/08-%20Class-Props-(Propias-y-Prototype).js">Class-Props-(Propias-y-Prototype)</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/09-%20Object-Freeze.js">Object-Freeze</a></li>
+   <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/10-%20Promesas.js">Promesas</a></li>
+</ol>
+</div>
