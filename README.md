@@ -46,8 +46,6 @@
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/es6/use-recursion-to-create-a-countdown.js">Recursion - CuentaRegresiva</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/es6/use-recursion-to-create-a-range-of-numbers.js">Recursion - Rango de Números</a></li>
    <li><a href="https://github.com/gfCrova/Secuencia-Algoritmos-JS/blob/main/3-%20Data%20Structures/es6/use-the-rest-parameter-with-function-parameters.js">Rest... En Parámetros de una función</a></li>
-   <li><a href=""></a></li>
-   <li><a href=""></a></li>
  </ul>
 </div>
 <br>
